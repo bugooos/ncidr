@@ -9,7 +9,13 @@ is a powerful Python tool designed for handling CIDR ranges and extracting IP ad
 
 2. Git: Git should be installed to clone the repository. You can download it from git-scm.com(https://git-scm.com/).
 
- 📝 1. Clone the Repository:
+
+🛠️ Install Dependencies:
+The ncidr tool requires the prompt_toolkit package. Install it using pip:
+
+## ```pip install prompt_toolkit```
+
+📝 1. Clone the Repository:
 Open a terminal or command prompt.
 Clone the repository using Git:
 
@@ -19,10 +25,6 @@ Clone the repository using Git:
 
 ## ```cd ncidr```
 
-🛠️ Install Dependencies:
-The ncidr tool requires the prompt_toolkit package. Install it using pip:
-
-## ```pip install prompt_toolkit```
 
 Running the Tool
 Ensure you are in the project directory.
