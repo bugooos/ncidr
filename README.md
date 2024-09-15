@@ -16,19 +16,19 @@ Clone the repository using Git:
 
 📝 Navigate to the project directory:
 
-```cd ncidr```
+## ```cd ncidr```
 
 🛠️ Install Dependencies
 The ncidr tool requires the prompt_toolkit package. Install it using pip:
 
-##```pip install prompt_toolkit```
+## ```pip install prompt_toolkit```
 
 Running the Tool
 Ensure you are in the project directory.
 
 🚀 Run the tool with Python:
 
-##```python3 ncidr.py```
+## ```python3 ncidr.py```
 
 🎨 Contributing
 Feel free to contribute to this project by submitting pull requests or issues.
