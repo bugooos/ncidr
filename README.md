@@ -13,17 +13,17 @@ is a powerful Python tool designed for handling CIDR ranges and extracting IP ad
 🛠️ Install Dependencies:
 The ncidr tool requires the prompt_toolkit package. Install it using pip:
 
-# ```pip install prompt_toolkit```
+### ```pip install prompt_toolkit```
 
 📝 1. Clone the Repository:
 Open a terminal or command prompt.
 Clone the repository using Git:
 
-# ```git clone https://github.com/bugooos/ncidr.git```
+### ```git clone https://github.com/bugooos/ncidr.git```
 
 📝 Navigate to the project directory:
 
-# ```cd ncidr```
+### ```cd ncidr```
 
 
 Running the Tool
@@ -31,7 +31,7 @@ Ensure you are in the project directory.
 
 🚀 Run the tool with Python:
 
-# ```python3 ncidr.py```
+### ```python3 ncidr.py```
 
 🎨 Contributing
 Feel free to contribute to this project by submitting pull requests or issues.
