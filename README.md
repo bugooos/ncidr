@@ -1,34 +1,34 @@
 ## Hello Everyone it's Nexu
-# 📋 ncidr
+📋 ncidr
 ncidr is a powerful Python tool designed for handling CIDR ranges and extracting IP addresses. It allows users to process CIDR ranges to generate a list of IP addresses, check for active IPs, and perform port scanning with additional details such as service names and versions.
-## 🌟 Installation: Both
+ 🌟 Installation: Both
 
-## ⚙️ Prerequisites
+ ⚙️ Prerequisites
 Python 3.x: Ensure that Python 3.x is installed on your system. You can download it from python.org(https://www.python.org/).
 
 Git: Git should be installed to clone the repository. You can download it from git-scm.com(https://git-scm.com/).
 
-## 📝 1. Clone the Repository:
+ 📝 1. Clone the Repository:
 Open a terminal or command prompt.
 Clone the repository using Git:
 
-```git clone https://github.com/bugooos/ncidr.git```
+## ```git clone https://github.com/bugooos/ncidr.git```
 
-## 📝 Navigate to the project directory:
+📝 Navigate to the project directory:
 
 ```cd ncidr```
 
-## 🛠️ Install Dependencies
-## The ncidr tool requires the prompt_toolkit package. Install it using pip:
+🛠️ Install Dependencies
+The ncidr tool requires the prompt_toolkit package. Install it using pip:
 
-```pip install prompt_toolkit```
+##```pip install prompt_toolkit```
 
-## Running the Tool
-## Ensure you are in the project directory.
+Running the Tool
+Ensure you are in the project directory.
 
-## 🚀 Run the tool with Python:
+🚀 Run the tool with Python:
 
-```python3 ncidr.py```
+##```python3 ncidr.py```
 
-## 🎨 Contributing
-## Feel free to contribute to this project by submitting pull requests or issues.
+🎨 Contributing
+Feel free to contribute to this project by submitting pull requests or issues.
