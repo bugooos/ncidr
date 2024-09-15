@@ -5,9 +5,9 @@ is a powerful Python tool designed for handling CIDR ranges and extracting IP ad
 
  ⚙️ Prerequisites: 
  
-Python 3.x Ensure that Python 3.x is installed on your system. You can download it from python.org(https://www.python.org/).
+1. Ensure that Python 3.x is installed on your system. You can download it from python.org(https://www.python.org/).
 
-Git: Git should be installed to clone the repository. You can download it from git-scm.com(https://git-scm.com/).
+2. Git: Git should be installed to clone the repository. You can download it from git-scm.com(https://git-scm.com/).
 
  📝 1. Clone the Repository:
 Open a terminal or command prompt.
