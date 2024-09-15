@@ -1,7 +1,8 @@
 ## Hello Everyone it's Nexu
 📋 ncidr
 is a powerful Python tool designed for handling CIDR ranges and extracting IP addresses. It allows users to process CIDR ranges to generate a list of IP addresses, check for active IPs.
- 🌟 Installation: Both
+
+🌟 Installation: Both
 
  ⚙️ Prerequisites: 
  
