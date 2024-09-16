@@ -56,7 +56,8 @@ python ncidr.py OR python3 ncidr.py
 ```
 ## Support
 
-For support, email drdeathultimate@gmail.com or join our Youtube channel.
-
+For support,
+You can buy me a coffie : https://buymeacoffee.com/nexu
+or email drdeathultimate@gmail.com or join our Youtube channel.
 Youtube: https://www.youtube.com/@cyberfortress05
 
