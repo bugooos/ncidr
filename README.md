@@ -25,7 +25,7 @@ Hello everyone I am nexu , a cybersecurity student , nothing else. I developed t
 The ncidr tool requires the prompt_toolkit package. Install it using pip:
 
 ```bash
-    pip install prompt_toolkit
+pip install prompt_toolkit
 ```
 
 
